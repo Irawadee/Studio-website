@@ -159,6 +159,9 @@ body {
   font-size: 2rem;
 }
 
+.blog-content a {
+  text-decoration: none;
+}
 .follow-channel {
   margin: 0 auto;
   height: 20rem;
